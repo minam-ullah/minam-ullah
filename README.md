@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
 - 🤖 I build scalable backend systems and AI applications that handle real-world traffic, users, and business-critical workflows.
-- 🚀 Currently building scalable backend systems and AI-powered applications for global platforms in e-commerce, fintech, and health-tech.
-- ⚡ Shipped a [Redesigned Groupon's Frontend & Backend](https://www.groupon.com/), an [LMS System Upgraded](https://eliawellness.com/), and a [Enhanced & Automated Modern Banking System](https://home.barclays/) that actually have real users
-- 🌏 Open to Remote & On-site Opportunities also Re-location Ready
+- 🚀 Currently working on scalable backend systems and AI-powered applications for global platforms in e-commerce, fintech, and health-tech.
+- ⚡ Shipped a [Redesigned Groupon's Frontend & Backend](https://www.groupon.com/), an [LMS System Upgraded - Elia Wellness](https://eliawellness.com/), a [Sales Tax Automation – LumaTax](https://www.taxually.com/lumatax) and a [Enhanced & Automated Modern Banking System - Barclays](https://home.barclays/) that actually have real users.
+- 🌏 Open to Remote & On-site Opportunities also Re-location Ready!
+  
 ## 🛠️ Technology & Tools
 
 ### 💪 Experienced in
